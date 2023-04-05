@@ -1,4 +1,4 @@
-# Data Science Methodology and reasoning
+# Data Science Report
 
 Our Speech-First MVP leverages AI to provide an assessment for each utterance made by the app's users. This analysis and scores are intended to be used by the SLT to better understand:
 • Which patients require SLT attention
