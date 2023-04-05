@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn[standard]
+python-multipart
+ffmpeg-python
+PyYAML
+boto3
+pyAudioAnalysis
+tqdm
+eyed3

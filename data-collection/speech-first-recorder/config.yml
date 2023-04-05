@@ -1,0 +1,14 @@
+api_url: http://localhost:8000
+default_sample_count: 2
+recordings_dir: 'user_recordings'
+default_dataset: 'ah_consonants_ah'
+default_sample_time: 2.0
+playback_enabled: false
+play_reference_sound: true
+delay_after_reference_sound: 0.5
+start_delay: 0.01
+stop_delay: 0.5
+s3_upload_enabled: true
+s3_bucket: <your-bucket>
+s3_upload_dir: data/01_raw
+allow_dataset_choice: false

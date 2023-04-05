@@ -1,0 +1,64 @@
+short a: and, as, and after
+short e: pen, hen, and lend
+short i: it and in
+short o: top and hop
+short u: under and cup
+long a: make and take
+long e: beet and feet
+long i: tie and lie
+long o: coat and toe
+long u (pronounced "yoo"): music and cute
+long oo: goo and droop
+ar: bark and dark
+er: her, bird, and fur
+or: fork, pork, and stork
+b: bed and bad
+k: cat and kick
+d: dog and dip
+f: fat and fig
+g: got and girl
+h: has and him
+j: job and joke
+l: lid and love
+m: mop and math
+n: not and nice
+p: pan and play
+r: ran and rake
+s: sit and smile
+t: to and take
+v: van and vine
+w: water and went
+y: yellow and yawn
+z: zipper and zap
+bl: blue and blow
+cl: clap and close
+fl: fly and flip
+gl: glue and glove
+pl: play and please
+br: brown and break
+cr: cry and crust
+dr: dry and drag
+fr: fry and freeze
+gr: great and ground
+pr: prize and prank
+tr: tree and try
+sk: skate and sky
+sl: slip and slap
+sp: spot and speed
+st: street and stop
+sw: sweet and sweater
+spr: spray and spring
+str: stripe and strap
+ch: chin and ouch
+sh: ship and push
+th: thing
+th: this
+wh: when
+ng: ring
+nk: rink
+oi: oil and toy
+ow: owl and ouch
+ey: rain
+short oo: took and pull
+aw: raw and haul
+zh: vision
