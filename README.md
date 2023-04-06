@@ -2,6 +2,13 @@
 
 SpeechFirst was a "Tech for Positive Futures" initiative from a team at Capgemini. Our goal was to apply machine learning and artificial intelligence to address the shortage of speech and language therapists in the UK.
 
+Learn more about SpeechFirst at the below links:
+ - [SpeechFirst Writeup](https://www.capgemini.com/gb-en/news/inside-stories/a-vision-for-speech/)
+ - [SpeechFirst MVP launch webinar](https://www.youtube.com/watch?v=yh-bgQ6c5_8)
+
+
+SpeechFirst Launch Webinar](
+
 During the course of the project we sought to prove the viability of evaluating speech with machine learning. Now we want to open-source our learnings, such that others can build upon the work we did to further research this field.
 
 ### Scope and Limitations
