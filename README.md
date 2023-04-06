@@ -7,8 +7,6 @@ Learn more about SpeechFirst at the below links:
  - [SpeechFirst MVP launch webinar](https://www.youtube.com/watch?v=yh-bgQ6c5_8)
 
 
-SpeechFirst Launch Webinar](
-
 During the course of the project we sought to prove the viability of evaluating speech with machine learning. Now we want to open-source our learnings, such that others can build upon the work we did to further research this field.
 
 ### Scope and Limitations
